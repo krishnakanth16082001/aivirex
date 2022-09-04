@@ -8,4 +8,4 @@ the tables will get imported in to the database;
 now type localhost/pro/index.php
 And start scroll the website;
 
-Important note:Turn on the xampp server:
+Important note:Turn on the xampp server :
